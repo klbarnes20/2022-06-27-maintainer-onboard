@@ -16,6 +16,14 @@ Carpentries Maintainer from CC@Home 2020
 - 'git push <WHERE> <WHAT>'
 - 'git push origin my_first_branch'
 
+- shortcuts for creating branches:
+	- 'git checkout -b <branch_name>'
+	- 'git switch -c <branch_name>'
+
+-'git branch -d <branch_name>': this will delete <branch_name> on your local computer. This only deletes on the local computer. It is easier to delete on github using a button. 
+-'git fetch --prune': will update will update your local git tree with the remote
+	- the prune will also delete references to branches that were deleted on the commit
+
 ## Tips and Tricks
 - 'explorer . ' : will open the file explorer for the folder you are in
 - 'nano FILENAME' : e.g. nano README.md will open the nano text editor 
@@ -23,4 +31,4 @@ Carpentries Maintainer from CC@Home 2020
 - To exit nano - ctrl X
 - 'cat FILENAME' : prints the contents of a file
 
-TESTING A COMMIT 
+
