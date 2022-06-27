@@ -1,4 +1,4 @@
-# 2022-06-27-maintainer-onboar
+# CarpentryCon@Home 2020: 2022-06-27-maintainer-onboarding 
 ## CarpentryCon@Home 2020 Git Collaboration 
 Maintainer Onboarding video - https://www.youtube.com/watch?v=uvWhSYBkZJ0
 Carpentries Maintainer from CC@Home 2020
